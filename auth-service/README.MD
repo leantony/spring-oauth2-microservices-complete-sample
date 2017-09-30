@@ -1,0 +1,1 @@
+http://localhost:8080/oauth/authorize?client_id=some-app&response_type=token&redirect_uri=http://www.google.com
